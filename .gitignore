@@ -1,0 +1,10 @@
+/.metadata/
+.classpath
+.project
+*.prefs
+*.dll
+*.png
+*.class
+*.jar
+*.log
+*.zip
